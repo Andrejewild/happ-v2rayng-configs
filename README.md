@@ -1,8 +1,8 @@
 # ⚡ happ-v2rayng-configs — Бесплатные VLESS / Reality / XHTTP Ключи (2026)
 
-**Автоматическое обновление каждый час!** Последняя проверка: `2026-10-21 18:22 MSK`
+**Автоматическое обновление каждый час!** Последняя проверка: `2026-10-21 18:43 MSK`
 
-### 🚀 Подключить все серверы и Обход Белых Списков в 1 клик:
+### 🚀 Подключить все 100+ серверов и Обход Белых Списков в 1 клик:
 👉 **[Открыть Telegram-бота mega vpn (@vpnsmegabot)](https://t.me/vpnsmegabot)**
 👉 **[Наш новостной канал (@vpnsmega)](https://t.me/vpnsmega)**
 
@@ -40,3 +40,6 @@ trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&typ
 trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#17%20%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D%20%7C%20%D0%A2%D0%93%20%40vpnsmegabot
 trojan://humanity@45.80.111.7:443?security=tls&type=ws&path=%2Fassignment&sni=www.calmlunch.com&fp=safari#18%20%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D%20%7C%20%D0%A2%D0%93%20%40vpnsmegabot
 ```
+
+### 📚 Полезные статьи и инструкции (Telegraph):
+- [Рабочие ключи VLESS Reality и обход Белых Списков (21.10.2026)](https://telegra.ph/Rabochie-klyuchi-VLESS-Reality-i-obhod-Belyh-Spiskov-21102026-10-21)
