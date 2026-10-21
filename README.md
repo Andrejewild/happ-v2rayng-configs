@@ -1,6 +1,6 @@
 # ⚡ happ-v2rayng-configs — Бесплатные VLESS / Reality / XHTTP Ключи (2026)
 
-**Автоматическое обновление каждый час!** Последняя проверка: `2026-10-20 23:26 MSK`
+**Автоматическое обновление каждый час!** Последняя проверка: `2026-10-21 00:28 MSK`
 
 ### 🚀 Подключить все серверы и Обход Белых Списков в 1 клик:
 👉 **[Открыть Telegram-бота mega vpn (@vpnsmegabot)](https://t.me/vpnsmegabot)**
@@ -37,6 +37,6 @@ trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&typ
 trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#14%20%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D%20%7C%20%D0%A2%D0%93%20%40vpnsmegabot
 trojan://humanity@45.80.111.7:443?security=tls&type=ws&path=%2Fassignment&sni=www.calmlunch.com&fp=edge#15%20%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D%20%7C%20%D0%A2%D0%93%20%40vpnsmegabot
 trojan://humanity@45.80.111.7:443?security=tls&type=ws&path=%2Fassignment&sni=www.calmlunch.com&fp=safari#16%20%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D%20%7C%20%D0%A2%D0%93%20%40vpnsmegabot
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?security=tls&sni=lv1.dedushka.top&alpn=http%2F1.1&fp=chrome#17%20%F0%9F%87%B1%F0%9F%87%BB%20Latvia%2C%20Riga%20%28Latgales%20priek%C5%A1pils%C4%93ta%29%20%7C%20%5BBL%5D%20%7C%20%D0%A2%D0%93%20%40vpnsmegabot
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?security=tls&sni=lv1.dedushka.top&alpn=http%2F1.1&fp=firefox#18%20%F0%9F%87%B1%F0%9F%87%BB%20Latvia%2C%20Riga%20%28Latgales%20priek%C5%A1pils%C4%93ta%29%20%7C%20%5BBL%5D%20%7C%20%D0%A2%D0%93%20%40vpnsmegabot
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?security=tls&sni=lv1.dedushka.top&alpn=http%2F1.1&fp=android#17%20%F0%9F%87%B1%F0%9F%87%BB%20Latvia%2C%20Riga%20%28Latgales%20priek%C5%A1pils%C4%93ta%29%20%7C%20%5BBL%5D%20%7C%20%D0%A2%D0%93%20%40vpnsmegabot
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?security=tls&sni=lv1.dedushka.top&alpn=http%2F1.1&fp=chrome#18%20%F0%9F%87%B1%F0%9F%87%BB%20Latvia%2C%20Riga%20%28Latgales%20priek%C5%A1pils%C4%93ta%29%20%7C%20%5BBL%5D%20%7C%20%D0%A2%D0%93%20%40vpnsmegabot
 ```
